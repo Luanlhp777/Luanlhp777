@@ -1,6 +1,6 @@
  ### Olá! Eu sou o Luan 👋
 
-- 🔭 Hoje trabalho de Analista Suporte TI
+- 🔭 Desenvolvedor Junior
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 
 <div>
